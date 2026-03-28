@@ -22,16 +22,8 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 
 ## 🔝 Top Repositories
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical)](https://github.com/Eshajha19/portfolio)
-[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical)](https://github.com/Eshajha19/MachineLearning)
-[![WebProjects](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=WebProjects&theme=radical)](https://github.com/Eshajha19/WebProjects)
-[![OtherRepo](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=OtherRepo&theme=radical)](https://github.com/Eshajha19/OtherRepo)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshajha19&show_icons=true&theme=radical&count_private=true)
+[![EduNavia](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical)](https://github.com/Eshajha19/Edu-Navia)
+[![agri](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical)](https://github.com/Eshajha19/agri)
 
 ---
 
@@ -41,11 +33,6 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 
 ---
 
-## 📈 Contributions Heatmap
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshajha19&theme=react-dark&hide_border=true)
-
----
 
 ### 👀 Profile Views
 [![Profile Views](https://komarev.com/ghpvc/?username=Eshajha19&color=blue&style=flat-square)](https://github.com/Eshajha19)
