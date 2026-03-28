@@ -20,13 +20,10 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ### LeetCode
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
-## 🔝 Top Repositories
-
-[![EduNavia](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=EduNavia&theme=radical)](https://github.com/Eshajha19/EduNavia)
-[![Agri](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=agri&theme=radical)](https://github.com/Eshajha19/agri)
-
 ---
+## 🌐 My Portfolio
 
+Check out my work: [Esha Jha Portfolio](https://myportfolioproject19.netlify.app/)
 
 ### 👀 Profile Views
 [![Profile Views](https://komarev.com/ghpvc/?username=Eshajha19&color=blue&style=flat-square)](https://github.com/Eshajha19)
