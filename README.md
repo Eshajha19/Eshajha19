@@ -20,8 +20,30 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ### LeetCode
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Eshajha19&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🔝 Top Repositories
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical)](https://github.com/Eshajha19/portfolio)
+[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical)](https://github.com/Eshajha19/MachineLearning)
+[![WebProjects](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=WebProjects&theme=radical)](https://github.com/Eshajha19/WebProjects)
+[![OtherRepo](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=OtherRepo&theme=radical)](https://github.com/Eshajha19/OtherRepo)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshajha19&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eshajha19&theme=radical&no-frame=true&margin-w=15)](https://github.com/Eshajha19)
+
+---
+
+## 📈 Contributions Heatmap
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshajha19&theme=react-dark&hide_border=true)
 
 ---
 
