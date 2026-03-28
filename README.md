@@ -14,6 +14,8 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eshajha19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshajha19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshajha19&layout=compact&theme=radical)
 
 ## My Achievements
 ![LeetCode Stats](https://leetcode-stats.vercel.app/?username=jhaesha)
