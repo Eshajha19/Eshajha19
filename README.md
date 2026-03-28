@@ -21,13 +21,16 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ### HackerRank
-![Python Certificate](https://www.hackerrank.com/certificates/4c515042bac7)
+![HackerRank Certificate](https://www.hackerrank.com/certificates/4c515042bac7)
 
 ---
+
 ## 🌐 My Portfolio
 
 Check out my work: [Esha Jha Portfolio](https://myportfolioproject19.netlify.app/)
 
+---
+ 
 ## 🚀 Top Projects
 
 ### [EduNavia](https://github.com/Eshajha19/EduNavia)
@@ -43,7 +46,9 @@ Check out my work: [Esha Jha Portfolio](https://myportfolioproject19.netlify.app
 - **Achievements:** Developed dashboards, integrated data analytics, and implemented predictive insights for better farming decisions.
 - **Tech Stack:** Python, Flask, FastAPI Pandas, NumPy, Matplotlib, HTML, CSS, React Js
 - **Status:** [Live Demo](https://agriagent-zeta.vercel.app)
-
+  
+ ---
+ 
 ### 👀 Profile Views
 [![Profile Views](https://komarev.com/ghpvc/?username=Eshajha19&color=blue&style=flat-square)](https://github.com/Eshajha19)
 
