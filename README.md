@@ -15,7 +15,6 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ## 🏅 Achievements & Badges
 
 ### GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshajha19&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Eshajha19&theme=radical)
 
 ### LeetCode
