@@ -22,10 +22,8 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 
 ## 🔝 Top Repositories
 
-### 🔝 Top Repositories
-
 [![EduNavia](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=EduNavia&theme=radical)](https://github.com/Eshajha19/EduNavia)
-[![Agri](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical)](https://github.com/Eshajha19/MachineLearning)
+[![Agri](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=agri&theme=radical)](https://github.com/Eshajha19/agri)
 
 ---
 
