@@ -22,16 +22,16 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 
 ## 🔝 Top Repositories
 <div align="center">
-  <a href="https://github.com/Eshajha19/Edu-Navia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical&hide_border=true" />
+  <a href="https://github.com/Eshajha19/EduNavia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=EduNavia&theme=radical" />
   </a>
-  <a href="https://github.com/Eshajha19/agri">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical&hide_border=true" />
+  <a href="https://github.com/Eshajha19/MachineLearning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical" />
+  </a>
+  <a href="https://github.com/Eshajha19/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical" />
   </a>
 </div>
-[![EduNavia](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical)](https://github.com/Eshajha19/Edu-Navia)
-[![agri](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical)](https://github.com/Eshajha19/agri)
-
 ---
 
 
