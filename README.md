@@ -25,6 +25,22 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 
 Check out my work: [Esha Jha Portfolio](https://myportfolioproject19.netlify.app/)
 
+## 🚀 Top Projects
+
+### [EduNavia](https://github.com/Eshajha19/EduNavia)
+- **Description:** An advanced educational platform that helps students search, compare, and explore Indian universities with detailed info, filters, and interactive tools.
+- **Achievements:** Integrated advanced search, dark mode, responsive design, and interactive university filters.
+- **Tech Stack:** Email js, Firebase, JavaScript, HTML, CSS
+- **Status:** [Live Demo](https://edunavia.netlify.app)
+
+---
+
+### [Agri](https://github.com/Eshajha19/Agri)
+- **Description:** A smart agriculture project aimed at providing farmers with crop insights, productivity tracking, and market suggestions using data analytics.
+- **Achievements:** Developed dashboards, integrated data analytics, and implemented predictive insights for better farming decisions.
+- **Tech Stack:** Python, Flask, FastAPI Pandas, NumPy, Matplotlib, HTML, CSS, React Js
+- **Status:** [Live Demo](https://agriagent-zeta.vercel.app)
+
 ### 👀 Profile Views
 [![Profile Views](https://komarev.com/ghpvc/?username=Eshajha19&color=blue&style=flat-square)](https://github.com/Eshajha19)
 
