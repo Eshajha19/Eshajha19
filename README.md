@@ -21,10 +21,11 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Eshajha19&limit=10&theme=radical&combine_all_yearly_contributions=true&include_private=true)
+![](https://github-contributor-stats.vercel.app/api?username=Eshajha19&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+
 ### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Eshajha19&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Eshajha19&color=blue&style=flat-square)](https://github.com/Eshajha19)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
