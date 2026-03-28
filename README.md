@@ -12,13 +12,22 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 [![GitHub Stats](https://ghstats.dev/api/card?username=Eshajha19&theme=ocean&border_radius=6)](https://github.com/rowkav09/GitHub-profile-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eshajha19&theme=react-dark&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eshajha19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Eshajha19&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eshajha19&layout=compact&theme=radical)
+## 🏅 Achievements & Badges
 
-## My Achievements
+### GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshajha19&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Eshajha19&theme=radical)
+
+### LeetCode
 ![LeetCode Stats](https://leetcode-stats.vercel.app/?username=jhaesha)
+
+### HackerRank
+![HackerRank Badge](https://img.shields.io/badge/HackerRank-Certified-blue?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+### Other Badges
+![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen?style=for-the-badge&logo=trophy)
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Eshajha19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
