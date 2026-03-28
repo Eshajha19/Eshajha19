@@ -18,7 +18,8 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Eshajha19&theme=radical)
 
 ### LeetCode
-![LeetCode Stats](https://leetcode-stats.vercel.app/?username=Eshajha19&theme=dark)
+![LeetCode Stats](https://leetcode-stats.vercel.app/?username=jhaesha&theme=dark)
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ### HackerRank
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Certified-blue?style=for-the-badge&logo=hackerrank&logoColor=white)
