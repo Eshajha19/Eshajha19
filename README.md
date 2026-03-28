@@ -21,7 +21,7 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Eshajha19&limit=10&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Eshajha19&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
