@@ -21,15 +21,16 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ## 🔝 Top Repositories
-
+<div align="center">
+  <a href="https://github.com/Eshajha19/Edu-Navia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/Eshajha19/agri">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical&hide_border=true" />
+  </a>
+</div>
 [![EduNavia](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=portfolio&theme=radical)](https://github.com/Eshajha19/Edu-Navia)
 [![agri](https://github-readme-stats.vercel.app/api/pin/?username=Eshajha19&repo=MachineLearning&theme=radical)](https://github.com/Eshajha19/agri)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eshajha19&theme=radical&no-frame=true&margin-w=15)](https://github.com/Eshajha19)
 
 ---
 
