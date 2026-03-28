@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi, I’m currently exploring Machine Learning and building my skills in the field. I’ve contributed to open source projects and enjoy collaborating with others to learn and improve.<br><br>I was ranked 23rd in Elite Coders Winter of Code 2026 among 5000+ contributors, which was a great experience in consistent contribution and teamwork.<br><br>I’ve also participated in several hackathons — reaching finalist positions multiple times and winning the Hover Robotics track at SheBuild Hackemon.<br><br>Always open to learning, building, and working on interesting projects 🚀
+Hi, I’m currently exploring Machine Learni💫 About Me
+
+Hi there! I’m currently exploring Machine Learning and building my skills in the field. I enjoy contributing to open source projects and collaborating with others to learn and improve.
+
+✨ Achievements:
+
+Ranked 23rd in Elite Coders Winter of Code 2026 among 5000+ contributors — a rewarding experience in consistent contribution and teamwork.
+Participated in several hackathons, reaching finalist positions multiple times and winning the Hover Robotics track at SheBuild Hackemon.
+
+🚀 Passionate About:
+
+Learning and exploring new technologies
+Building impactful projects
+Collaborating with like-minded innovators
+
+💡 Always open to learning, building, and working on interesting projects!ng and building my skills in the field. I’ve contributed to open source projects and enjoy collaborating with others to learn and improve.<br><br>I was ranked 23rd in Elite Coders Winter of Code 2026 among 5000+ contributors, which was a great experience in consistent contribution and teamwork.<br><br>I’ve also participated in several hackathons — reaching finalist positions multiple times and winning the Hover Robotics track at SheBuild Hackemon.<br><br>Always open to learning, building, and working on interesting projects 🚀
 
 
 ## 🌐 Socials:
