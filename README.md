@@ -21,7 +21,10 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ### HackerRank
-![HackerRank Badge](https://img.shields.io/badge/HackerRank-Certified-blue?style=for-the-badge&logo=hackerrank&logoColor=white)
+![HackerRank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jha_esha2024)
+
+### CodeChef
+![CodeChef Rating](https://img.shields.io/badge/CodeChef-4%20Star-orange?style=for-the-badge&logo=codechef)
 
 ### Other Badges
 ![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-brightgreen?style=for-the-badge&logo=trophy)
