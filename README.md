@@ -20,9 +20,6 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ### LeetCode
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
-### HackerRank
-![HackerRank Certificate](https://www.hackerrank.com/certificates/4c515042bac7)
-
 ---
 
 ## 🌐 My Portfolio
