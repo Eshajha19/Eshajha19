@@ -21,6 +21,7 @@ Hi, I’m currently exploring Machine Learning and building my skills in the fie
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/jhaesha?theme=dark&show=graph,recent)
 
 ### HackerRank
+![HackerRank Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jha_esha2024)
 ![HackerRank](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jha_esha2024)
 
 ### CodeChef
