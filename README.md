@@ -58,7 +58,7 @@ Check out my work: [Esha Jha Portfolio](https://myportfolioproject19.netlify.app
 - **Description:** A smart agriculture project aimed at providing farmers with crop insights, productivity tracking, and market suggestions using data analytics.
 - **Achievements:** Developed dashboards, integrated data analytics, and implemented predictive insights for better farming decisions.
 - **Tech Stack:** Python, Flask, FastAPI Pandas, NumPy, Matplotlib, HTML, CSS, React Js
-- **Status:** [Live Demo](https://agriagent-zeta.vercel.app)
+- **Status:** [Live Demo](https://fasal-saathi.vercel.app)
   
  ---
  
